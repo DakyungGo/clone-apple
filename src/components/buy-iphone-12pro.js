@@ -1,9 +1,11 @@
 import React from "react";
+import NavApple from "./nav-apple";
 
 const BuyIphone12pro = () => {
   return (
-    <div>
-      <div>buy iphone 12 pro</div>
+    <div className="page">
+      <NavApple />
+      <div></div>
     </div>
   );
 };

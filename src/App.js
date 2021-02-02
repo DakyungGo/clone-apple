@@ -1,4 +1,4 @@
-import "./App.css";
+import "./styles/App.css";
 import BuyIphone12pro from "./components/buy-iphone-12pro";
 
 function App() {
